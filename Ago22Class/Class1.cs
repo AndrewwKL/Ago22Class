@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Ago22Class
 {
-    internal class Class1
+    internal class ExerciseOne
     {
+        public static void ExecuteExercise() { 
+        
+
+        }
     }
 }
