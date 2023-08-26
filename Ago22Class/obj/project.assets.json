@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\source\\repos\\Ago22Class\\Ago22Class\\Ago22Class.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Documents\\GitHub\\Ago22Class\\Ago22Class\\Ago22Class.csproj",
       "projectName": "Ago22Class",
-      "projectPath": "C:\\Users\\usuario\\source\\repos\\Ago22Class\\Ago22Class\\Ago22Class.csproj",
+      "projectPath": "C:\\Users\\usuario\\Documents\\GitHub\\Ago22Class\\Ago22Class\\Ago22Class.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\source\\repos\\Ago22Class\\Ago22Class\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\Documents\\GitHub\\Ago22Class\\Ago22Class\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

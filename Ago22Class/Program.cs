@@ -24,7 +24,8 @@
             double altura=double.Parse(Console.ReadLine());
             Console.WriteLine("Ingresa la base de el rectangulo: ");
             double baseR=double.Parse(Console.ReadLine());
-            Console.WriteLine("El perimetro de el rectangulo es de: "+(2*altura)+(2*baseR));
+            Console.WriteLine("El perimetro de el rectangulo es de: " + (baseR*altura));
+
 
         }
     }
